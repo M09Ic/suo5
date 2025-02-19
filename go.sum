@@ -26,6 +26,8 @@ github.com/chainreactors/proxyclient v1.0.1-0.20250214091837-3dc4d4a0a010 h1:rwe
 github.com/chainreactors/proxyclient v1.0.1-0.20250214091837-3dc4d4a0a010/go.mod h1:51mx9hbbDv16h232xeqb9OnIAeRWMJvnEVqvls79Z4M=
 github.com/chainreactors/proxyclient v1.0.1 h1:KBe0YwW1y2JRhZRNbA6AS7v2EjB3Sh2O1mKT4LRP9D0=
 github.com/chainreactors/proxyclient v1.0.1/go.mod h1:eQJ/8dzl2hzUiuLS9zLh/pcN3omcbC3Z5/iLNBMKeTQ=
+github.com/chainreactors/proxyclient v1.0.2-0.20250219161856-d3cb64e8a173 h1:QxxIigUT2XtSuyJV9vjgVm7YEeAMiWBXTAiiSTO34fA=
+github.com/chainreactors/proxyclient v1.0.2-0.20250219161856-d3cb64e8a173/go.mod h1:eQJ/8dzl2hzUiuLS9zLh/pcN3omcbC3Z5/iLNBMKeTQ=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
